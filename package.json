@@ -1,16 +1,24 @@
 {
   "name": "jorge_fabregas_portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jorge Fabregas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgefabregas/jorge_fabregas_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jorgefabregas/jorge_fabregas_portfolio/issues"
+  },
+  "homepage": "https://github.com/jorgefabregas/jorge_fabregas_portfolio#readme",
+  "description": ""
 }

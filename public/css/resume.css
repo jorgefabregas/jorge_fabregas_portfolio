@@ -1,0 +1,63 @@
+.resume {
+    display: grid;
+    text-align: center;
+    align-items: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2rem;
+}
+.resume h1 {
+    color: var(--txt-color);
+    padding: 6rem 0 3rem 0;
+}
+.resume img {
+    padding: 0 25% 3rem 25%;
+}
+.contact-layout {
+    background-color: var(--txt-color);
+    width: 900px;
+    height: 650px;
+    margin: 5% 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.contact-grid {
+    background: white;
+    flex: none;
+    width: 32.666%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+    color: white;   
+}
+.button {
+    margin-bottom: 0;
+}
+.logo {
+    width: 40%;
+    height: 40%;
+    padding-top: 2rem;
+}
+.center {
+    display: inline;
+    color: var(--txt-color);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-image: url(/img/texture.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.center p {
+    text-transform: lowercase;
+}
+.center h2 {
+    padding: 2rem 1rem;
+}
+.resume p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1rem;
+    padding: 0 4rem 2rem 4rem;
+    text-align: center;
+    line-height: 2rem;
+}
