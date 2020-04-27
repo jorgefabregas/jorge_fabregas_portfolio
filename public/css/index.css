@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+:root {
+    --blue:#039bca;
+    --light-blue:#74b9d4;
+    --txt-color:#3e3f3f;
+}
+.main-banner {
+    width: 100%;
+    margin: 0;
+}
+.nav {
+    position: absolute;
+    top: 50px;
+    right: -200px;
+    width: 200px;
+    z-index: 100;
+    transition: all 0.5s;
+}
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    cursor: pointer;
+}
+.menu_link {
+    display: block;
+    padding: 40px 30px;
+    background: var(--blue);
+    color: #fff;
+    height: 40px;
+    border-bottom: 1px solid white;
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.menu :hover {
+    background: var(--light-blue);
+    color: var(--txt-color);
+}
+.icon_menu {
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 48%;
+    margin-top: 30px;
+    color: var(--txt-color);
+    opacity: 50%;
+    z-index: 1000;
+}
+.showMenu {
+    right: 0;
+}
+
+
+
+/*var (--main-color);*/
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;*/
