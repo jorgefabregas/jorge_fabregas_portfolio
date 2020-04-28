@@ -9,7 +9,7 @@
     margin: 0;
 }
 .nav {
-    position: absolute;
+    position: fixed;
     top: 50px;
     right: -200px;
     width: 200px;
@@ -50,7 +50,7 @@
     border-radius: 5px;
     cursor: pointer;
     margin-left: 48%;
-    margin-top: 30px;
+    margin-top: 20px;
     color: var(--txt-color);
     opacity: 50%;
     z-index: 1000;

@@ -46,6 +46,9 @@
 .place-img {
 max-width: 100%;
 }
+.place-picture p {
+    padding-bottom: 2rem;
+}
 .flexslider {
 position: relative;
 }
