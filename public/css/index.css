@@ -39,7 +39,7 @@
     background: var(--light-blue);
     color: var(--txt-color);
 }
-.icon_menu {
+.icon_menu p {
     position: absolute;
     display: block;
     width: 40px;
