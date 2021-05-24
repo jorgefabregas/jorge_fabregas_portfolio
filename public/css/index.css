@@ -44,12 +44,12 @@
     display: block;
     width: 40px;
     height: 40px;
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     line-height: 45px;
     border-radius: 5px;
     cursor: pointer;
-    margin-left: 48%;
+    margin-left: 44%;
     margin-top: 20px;
     color: var(--txt-color);
     opacity: 50%;
