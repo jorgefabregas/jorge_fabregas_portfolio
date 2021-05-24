@@ -10,7 +10,8 @@
     padding: 3rem 0 3rem 0;
 }
 .about img {
-    padding: 0 25% 3rem 25%;
+    width: 100%;
+    height: auto;
 }
 
 .about p {
