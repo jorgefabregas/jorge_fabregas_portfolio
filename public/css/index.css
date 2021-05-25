@@ -41,9 +41,9 @@
     color: var(--txt-color);
 }
 .icon_menu {
-    position: absolute;
+    /*position: absolute;*/
     display: inline-flex;
-    width: auto;
+    /*width: auto;
     height: auto;
     font-size: 50px;
     text-align: center;
@@ -57,7 +57,7 @@
     border-color: white;
     opacity: 50%;
     z-index: 1000;
-    background: -webkit-linear-gradient(left, rgb(64, 120, 216) 20%, rgb(99, 202, 240));
+    background: -webkit-linear-gradient(left, rgb(64, 120, 216) 20%, rgb(99, 202, 240));*/
 }
 .showMenu {
     right: 0;
