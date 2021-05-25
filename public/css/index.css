@@ -57,7 +57,7 @@
     border-color: white;
     opacity: 50%;
     z-index: 1000;*/
-    background: -webkit-linear-gradient(left, rgb(64, 120, 216) 20%, rgb(99, 202, 240));*/
+    background: -webkit-linear-gradient(left, rgb(64, 120, 216) 20%, rgb(99, 202, 240));
 }
 .showMenu {
     right: 0;
