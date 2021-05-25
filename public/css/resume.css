@@ -23,6 +23,11 @@
     font-size: 1.3rem;
     line-height: 2.7rem;
 }
+
+.resumepdf {
+    background-color: var(--light-blue);
+    margin: 2rem 0 0 0;
+}
 .resume {
     display: grid;
     text-align: center;
