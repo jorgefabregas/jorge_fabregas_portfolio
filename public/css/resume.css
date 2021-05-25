@@ -26,7 +26,7 @@
 
 .resumepdf {
     background-color: var(--light-blue);
-    margin: 2rem 0 0 0;
+    margin: 5rem 0 0 0;
 }
 .resume {
     display: grid;
