@@ -53,7 +53,8 @@
     margin-left: 44%;
     margin-top: 20px;
     color: var(--txt-color);
-    border-color: white 1px;
+    border: 1rem;
+    border-color: white;
     opacity: 50%;
     z-index: 1000;
 }
