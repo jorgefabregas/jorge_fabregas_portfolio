@@ -42,7 +42,7 @@
 }
 .icon_menu {
     position: absolute;
-    display: inline;
+    display: inline-block;
     width: auto;
     height: auto;
     font-size: 50px;
