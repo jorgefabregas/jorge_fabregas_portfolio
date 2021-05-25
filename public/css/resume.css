@@ -28,7 +28,7 @@
     background-color: var(--light-blue);
     margin: 5rem 0 0 0;
     width: 100%;
-    height: 100%;
+    height: 1200px;
 }
 .resume {
     display: grid;
