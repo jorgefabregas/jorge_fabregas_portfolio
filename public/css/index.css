@@ -61,10 +61,10 @@
     box-shadow: #3e3f3f;
 }
 
-.icon_menu p {
+.icon_menu p span {
     font-family: 'Roboto', sans-serif;
     font-size: 2rem;
-    padding: 2rem 0 2rem 70%;
+    padding: 1rem 0 1rem 70%;
     color: var(--txt-color);
 }
 .showMenu {
