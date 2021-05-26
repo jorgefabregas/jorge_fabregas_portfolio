@@ -113,7 +113,8 @@
     background-color: rgb(244, 239, 234);
     font-family: 'Italianno', cursive;
     font-size: 2rem;
-    padding: 2rem;
+    text-align: center;
+    line-height: 1rem;
 }
 
 .three {
