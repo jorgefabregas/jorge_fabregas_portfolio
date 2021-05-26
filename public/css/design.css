@@ -114,7 +114,8 @@
     font-family: 'Italianno', cursive;
     font-size: 2rem;
     text-align: center;
-    line-height: 1rem;
+    line-height: 2rem;
+    padding-top: 2rem;
 }
 
 .three {
