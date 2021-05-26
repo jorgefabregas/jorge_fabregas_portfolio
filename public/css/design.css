@@ -120,7 +120,7 @@
 }
 
 .three {
-    background-color: lightcoral;
+    overflow: hidden;
     /*grid-column-start: 3;
     grid-column-end: 5;*/
 }
