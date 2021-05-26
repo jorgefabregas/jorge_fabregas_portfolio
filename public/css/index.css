@@ -71,7 +71,6 @@
 .arrow_menu {
     font-family: 'Roboto', sans-serif;
     font-size: 1,7rem;
-    margin-left: 70%;
     color: var(--txt-color);
 }
 .showMenu {
