@@ -85,12 +85,19 @@
     padding: 1em;
 }*/
 
+.gd_background {
+    background-image: url(/img/GF\ background.png);
+    width: 100%;
+    height: auto;
+    opacity: 40%;
+}
 .container {
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
     margin: 4rem 15% 4rem 15%;
     padding: 0;
+    width: 70vw;
     height: 400px;
 }
 
