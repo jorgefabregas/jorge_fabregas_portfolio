@@ -87,12 +87,15 @@
 
 .gd_background {
     background-image: url(/img/GF\ background.png);
+    width: 100;
+    height: auto;
+    opacity: 40%;
 }
 .container {
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
-    margin: 4rem 0 4rem 0;
+    margin: 4rem 15%;
     border: medium black;
     height: 400px;
 }
