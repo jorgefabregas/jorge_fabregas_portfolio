@@ -85,6 +85,9 @@
     padding: 1em;
 }*/
 
+.gd_background {
+    background-image: url(/img/GF\ background.png);
+}
 .container {
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
