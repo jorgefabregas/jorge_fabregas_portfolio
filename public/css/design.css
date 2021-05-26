@@ -124,6 +124,10 @@
     /*grid-column-start: 3;
     grid-column-end: 5;*/
 }
+
+.three img {
+    max-width: 100%;
+}
 .four {
     background-color: lightgrey;
     /*grid-column-start: 3;
