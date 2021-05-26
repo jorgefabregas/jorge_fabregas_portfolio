@@ -108,7 +108,8 @@
     max-width: 100%;
 }
 .two {
-    background-color: lightblue;
+    background-color: antiquewhite;
+    font-family: 'Italianno', cursive;
     grid-column-start: 2;
     grid-column-end: 5;
 }
