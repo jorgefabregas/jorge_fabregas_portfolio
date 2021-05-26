@@ -58,7 +58,7 @@
     opacity: 50%;
     z-index: 1000;*/
     background-color: whitesmoke;
-    box-shadow: #3e3f3f;
+    box-shadow: 10px 5px 5px black;
 }
 
 .icon_menu p {
@@ -66,14 +66,13 @@
     font-size: 1.7rem;
     margin-left: 80%;
     color: var(--txt-color);
-    padding: 0.1rem 0.1rem 0.1rem 0;
 }
 
 .arrow_menu {
     font-family: 'Roboto', sans-serif;
     font-size: 1.7rem;
     color: var(--txt-color);
-    padding: 0.1rem 0;
+    margin-left: 0.5rem;
 }
 .showMenu {
     right: 0;
