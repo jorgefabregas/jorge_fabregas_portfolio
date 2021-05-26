@@ -89,8 +89,7 @@
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    border-width: 5rem;
-    border-color: orangered;
+    margin-top: 2rem;
 }
 
 .one {
