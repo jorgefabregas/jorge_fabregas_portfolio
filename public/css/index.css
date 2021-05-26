@@ -5,8 +5,8 @@
     --txt-color:#3e3f3f;
 }
 .main-banner {
-    width: 20vw;
-    height: 20vh;
+    width: 100vw;
+    height: 100vh;
     /*margin: 5rem 0 0 0;*/
 }
 .nav {
