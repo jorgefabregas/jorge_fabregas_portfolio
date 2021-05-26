@@ -89,7 +89,7 @@
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    margin: 4rem 0;
+    margin: 4rem 0 4rem 0;
     border: medium black;
     height: 600px;
 }
