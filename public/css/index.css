@@ -11,7 +11,7 @@
 }
 .nav {
     position: fixed;
-    top: 50px;
+    top: 55px;
     right: -200px;
     width: 200px;
     z-index: 100;
@@ -58,7 +58,7 @@
     opacity: 50%;
     z-index: 1000;*/
     background-color: whitesmoke;
-    box-shadow: 10px 5px 5px black;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 .icon_menu p {
