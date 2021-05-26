@@ -57,7 +57,15 @@
     border-color: white;
     opacity: 50%;
     z-index: 1000;*/
-    background: -webkit-linear-gradient(left, rgb(64, 120, 216) 20%, rgb(99, 202, 240));
+    background-color: whitesmoke;
+    box-shadow: #3e3f3f;
+}
+
+.icon_menu p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    padding: 2rem 0 2rem 70%;
+    color: var(--txt-color);
 }
 .showMenu {
     right: 0;
