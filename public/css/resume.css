@@ -23,6 +23,7 @@
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.3rem;
     line-height: 2.7rem;
+    color: var(--txt-color);
 }
 
 .resumepdf {
