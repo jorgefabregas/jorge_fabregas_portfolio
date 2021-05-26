@@ -64,7 +64,7 @@
 .icon_menu p {
     font-family: 'Roboto', sans-serif;
     font-size: 1.7rem;
-    margin-left: 80%;
+    margin-left: 75%;
     color: var(--txt-color);
     padding: 0.2rem 0;
 }
