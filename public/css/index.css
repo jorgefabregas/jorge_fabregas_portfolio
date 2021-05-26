@@ -61,9 +61,16 @@
     box-shadow: #3e3f3f;
 }
 
-.icon_menu p, span {
+.icon_menu p {
     font-family: 'Roboto', sans-serif;
-    font-size: 2rem;
+    font-size: 1,7rem;
+    margin-left: 70%;
+    color: var(--txt-color);
+}
+
+.arrow_menu {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1,7rem;
     margin-left: 70%;
     color: var(--txt-color);
 }
