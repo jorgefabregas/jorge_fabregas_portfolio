@@ -116,6 +116,7 @@
     text-align: center;
     line-height: 2rem;
     padding-top: 2rem;
+    color: var(--txt-color);
 }
 
 .three {
