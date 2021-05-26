@@ -87,8 +87,7 @@
 
 .gd_background {
     background-image: url(/img/GF\ background.png);
-    width: 50%;
-    height: auto;
+    background-size: cover;
     opacity: 40%;
 }
 .container {
