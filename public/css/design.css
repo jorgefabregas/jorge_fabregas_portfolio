@@ -97,11 +97,11 @@
 .one {
     grid-row-start: 1;
     grid-row-end: 3;
+    overflow: hidden;
 }
 
 .one img {
-    width: 100%;
-    height: auto;
+    max-width: 100%;
 }
 .two {
     background-color: lightblue;
