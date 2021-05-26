@@ -12,7 +12,7 @@
 .about img {
     width: 100%;
     height: auto;
-    margin: 5rem 0 0 0;
+    /*margin: 5rem 0 0 0;*/
 }
 
 .about p {
@@ -27,7 +27,7 @@
 
 .resumepdf {
     background-color: var(--light-blue);
-    margin: 5rem 0 0 0;
+    /*margin: 5rem 0 0 0;*/
     width: 100%;
     height: 1200px;
 }
