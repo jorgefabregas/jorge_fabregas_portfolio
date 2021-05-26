@@ -110,11 +110,11 @@
 .two {
     grid-column-start: 2;
     grid-column-end: 5;
-    background-color: rgb(249, 246, 243);
+    background-color: whitesmoke;
     font-family: 'Italianno', cursive;
     font-size: 2.5rem;
     text-align: center;
-    line-height: 2rem;
+    line-height: 2.3rem;
     padding-top: 2rem;
     color: var(--txt-color);
 }
