@@ -61,7 +61,7 @@
     box-shadow: #3e3f3f;
 }
 
-.icon_menu p span {
+.icon_menu p, span {
     font-family: 'Roboto', sans-serif;
     font-size: 2rem;
     margin-left: 70%;
