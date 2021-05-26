@@ -111,8 +111,12 @@
     grid-column-start: 2;
     grid-column-end: 5;
     background-color: rgb(244, 239, 234);
+}
+
+.two p {
     font-family: 'Italianno', cursive;
-    font-size: 4rem;
+    font-size: 2rem;
+    padding: 2rem;
 }
 .three {
     background-color: lightcoral;
