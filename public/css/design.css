@@ -86,6 +86,7 @@
 }*/
 
 .gd_background {
+    display: block;
     background-image: url(/img/GF\ background.png);
     background-size: cover;
     opacity: 40%;
