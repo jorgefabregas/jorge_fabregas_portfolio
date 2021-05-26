@@ -64,7 +64,7 @@
 .icon_menu p span {
     font-family: 'Roboto', sans-serif;
     font-size: 2rem;
-    padding-left: 70%;
+    margin-left: 70%;
     color: var(--txt-color);
 }
 .showMenu {
