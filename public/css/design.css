@@ -98,6 +98,11 @@
     grid-row-start: 1;
     grid-row-end: 3;
 }
+
+.one img {
+    width: 100%;
+    height: auto;
+}
 .two {
     background-color: lightblue;
     grid-column-start: 2;
