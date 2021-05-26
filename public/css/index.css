@@ -66,14 +66,14 @@
     font-size: 1.7rem;
     margin-left: 75%;
     color: var(--txt-color);
-    padding: 0.2rem 0.1rem 0.2rem 0;
+    padding: 0.1rem 0.1rem 0.1rem 0;
 }
 
 .arrow_menu {
     font-family: 'Roboto', sans-serif;
     font-size: 1.7rem;
     color: var(--txt-color);
-    padding: 0.2rem 0;
+    padding: 0.1rem 0;
 }
 .showMenu {
     right: 0;
