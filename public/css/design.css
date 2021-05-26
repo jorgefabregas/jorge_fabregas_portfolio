@@ -94,10 +94,7 @@
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
-    margin: 4rem 15% 4rem 15%;
-    padding: 0;
-    width: 70vw;
-    height: 400px;
+    padding: 4rem 6rem;
 }
 
 .one {
