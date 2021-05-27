@@ -128,7 +128,7 @@
 }
 
 .work-name {
-    /*background-color: rgba(0,0,0,0.5);*/
+    background-color: rgba(0,0,0,0.5);
     text-transform: uppercase;
     bottom: 0;
     right: 0;
@@ -142,7 +142,7 @@
     opacity: 1;
 }
 .work-name a {
-    background-color: gold; 
+    /*background-color: gold;*/
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.5rem;
