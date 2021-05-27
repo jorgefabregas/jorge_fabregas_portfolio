@@ -127,6 +127,21 @@
     grid-column-end: 5;*/
 }
 
+.four {
+    overflow: hidden;
+    background-image: url(/img/packaging.png);
+    background-size: cover;
+    /*grid-column-start: 3;
+    grid-column-end: 5;*/
+}
+
+.five {
+    overflow: hidden;
+    background-image: url(/img/advertesing.png);
+    background-size: cover;
+    /*grid-column-start: 3;
+    grid-column-end: 5;*/
+}
 .work-name {
     /*ackground-color: rgba(0,0,0,0.5);*/
     text-transform: uppercase;
@@ -140,7 +155,6 @@
 }
 .work-name:hover {
     opacity: 1;
-    color: grey;
 }
 .work-name a {
     /*background-color: gold;*/
@@ -156,20 +170,6 @@
     text-decoration: none;
 }
 
-.four {
-    background-color: lightgrey;
-    /*grid-column-start: 3;
-    grid-column-end: 4;
-    grid-row-start: 3;
-    grid-row-end: 5;*/
-}
-.five {
-    background-color: lightsalmon;
-    /*grid-column-start: 4;
-    grid-column-end: 5;
-    grid-row-start: 3;
-    grid-row-end: 5;*/
-}
 
 
 
