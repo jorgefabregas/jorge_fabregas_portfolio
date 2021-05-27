@@ -128,14 +128,14 @@
 }
 
 .work-name {
-    background-color: rgba(0,0,0,0.5);
+    /*ackground-color: rgba(0,0,0,0.5);*/
     text-transform: uppercase;
     bottom: 0;
     right: 0;
     width: 100%;
     height: 100%;
     display: grid;
-    opacity: 0;
+    opacity: 100;
     transition: all 0.3s;
 }
 .work-name:hover {
