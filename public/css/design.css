@@ -135,7 +135,7 @@
     width: 100%;
     height: 100%;
     display: grid;
-    opacity: 100;
+    opacity: 1;
     transition: all 0.3s;
 }
 .work-name:hover {
