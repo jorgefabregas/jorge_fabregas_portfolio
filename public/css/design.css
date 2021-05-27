@@ -140,6 +140,7 @@
 }
 .work-name:hover {
     opacity: 1;
+    color: grey;
 }
 .work-name a {
     /*background-color: gold;*/
