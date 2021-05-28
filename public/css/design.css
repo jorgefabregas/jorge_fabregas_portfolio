@@ -143,7 +143,7 @@
     grid-column-end: 5;*/
 }
 .work-name {
-    /*ackground-color: rgba(0,0,0,0.5);*/
+    /*background-color: rgba(0,0,0,0.5);*/
     text-transform: uppercase;
     bottom: 0;
     right: 0;
@@ -152,6 +152,7 @@
     display: grid;
     opacity: 100;
     transition: all 0.3s;
+    padding: 0.5rem;
 }
 .work-name:hover {
     opacity: 1;
