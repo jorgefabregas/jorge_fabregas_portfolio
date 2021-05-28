@@ -173,7 +173,8 @@
 
 .back {
     margin-left: 70%;
-    margin-bottom: 2rem;
+    padding-top: -50px;
+    padding-bottom: 2rem;
 }
 
 
